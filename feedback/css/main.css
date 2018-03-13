@@ -1,0 +1,44 @@
+.dropzone {
+    border: 2px dashed #0087F7;
+    border-radius: 5px;
+    background: white;
+}
+.dropzone .dz-message {
+    text-align: center;
+    margin: 2em 0;
+    font-size: 20px;
+}
+.dz-progress {
+    display: none !important;
+}
+.dropzone .dz-preview .dz-image {
+    border-radius: 4px;
+}
+
+.panel-success {
+    border-color: #29b74e;
+}
+.panel-success>.panel-heading {
+    color: #fff;
+    background-color: #2ecc71;
+    border-color: #29b74e;
+}
+.btn-success {
+    color: #fff;
+    background-color: #2ecc71;
+    border-color: #29b765;
+}
+.success {
+    color: #29b74e;
+}
+.jgrowl-error {
+    background-color: #a94442 !important;
+}
+
+.jgrowl-success {
+    background-color: #3c763d !important;
+}
+
+.jgrowl-warning {
+    background-color: #8a6d3b !important;
+}
